@@ -1,3 +1,59 @@
 .moviePoster {
     height: 500px;
     }
+
+#Mani {
+    height: 350px;
+}
+
+#fronsacAndThomas {
+    height: 300px;
+}
+
+#fightScene {
+    height: 350px;
+}
+
+#findingAClue {
+    height: 200px;
+}
+
+#movieImageOne {
+    height: 400px;
+}
+
+#movieImageTwo {
+    height: 350px;
+}
+
+#movieImageThree {
+    height: 450px;
+}
+
+#SAstats {
+    display: grid;
+    justify-content: flex-start;
+}
+
+#SApt1 {}
+
+#SApt2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#bathhouse {
+    height: 350px;
+}
+
+#landscape {
+    height: 450px;
+}
+
+#chihiroAndGold {
+    height: 150px;
+}
+
+#yubaba {
+    height: 400px;
+}
