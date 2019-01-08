@@ -1,21 +1,33 @@
 .moviePoster {
-    height: 500px;
+    height: 250px;
     }
 
 #Mani {
     height: 350px;
+    float: left;
+    padding: .25em;
 }
 
 #fronsacAndThomas {
-    height: 300px;
+    height: 175px;
+    float: right;
+    padding: .25em;
 }
 
 #fightScene {
     height: 350px;
+    float: right;
+    padding: .25em;
 }
 
 #findingAClue {
     height: 200px;
+    float: left;
+    padding: .25em;
+}
+
+#About {
+    font: bold;
 }
 
 #movieImageOne {
@@ -31,29 +43,33 @@
 }
 
 #SAstats {
-    display: grid;
-    justify-content: flex-start;
 }
 
 #SApt1 {}
 
 #SApt2 {
-    display: flex;
-    justify-content: space-between;
+}
+
+#SApt4 {
 }
 
 #bathhouse {
     height: 350px;
+    float: right;
 }
 
 #landscape {
-    height: 450px;
-}
-
-#chihiroAndGold {
-    height: 150px;
+    height: 300px;
+    float: left;
+    padding: .25em;
 }
 
 #yubaba {
     height: 400px;
+    float: right;
+    padding: 0.5em;
+}
+
+.section {
+
 }
