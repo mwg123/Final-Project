@@ -2,6 +2,12 @@
     height: 250px;
     }
 
+.box {
+    height: 400px;
+    border: solid;
+    flex: justify;
+}
+
 #Mani {
     height: 350px;
     float: left;
@@ -31,26 +37,21 @@
 }
 
 #movieImageOne {
-    height: 400px;
+    height: 200px;
+    float: right;
+    padding: .25em;
 }
 
 #movieImageTwo {
-    height: 350px;
+    height: 150px;
+    float: left;
+    padding: .25em;
 }
 
 #movieImageThree {
-    height: 450px;
-}
-
-#SAstats {
-}
-
-#SApt1 {}
-
-#SApt2 {
-}
-
-#SApt4 {
+    height: 265px;
+    float: right;
+    padding: .25em;
 }
 
 #bathhouse {
@@ -70,6 +71,3 @@
     padding: 0.5em;
 }
 
-.section {
-
-}
