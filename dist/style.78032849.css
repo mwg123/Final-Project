@@ -1,3 +1,20 @@
+#content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#content > div {
+    align-items: center;
+    width: 33vw;
+    padding: 1.5em;
+}
+
+#heading {
+    text-align: center;
+}
+
 .moviePoster {
     height: 250px;
     }
@@ -5,7 +22,9 @@
 .box {
     height: 400px;
     border: solid;
-    flex: justify;
+    display: flex;
+    flex-direction: column;
+    margin: 4px;
 }
 
 #Mani {
