@@ -12,6 +12,7 @@
 }
 
 #heading {
+    margin-top: 500px;
     text-align: center;
 }
 
@@ -25,6 +26,11 @@
     display: flex;
     flex-direction: column;
     margin: 4px;
+}
+
+#logo {
+    height: 25px;
+    text-align: center;
 }
 
 #Mani {
@@ -71,6 +77,10 @@
     height: 265px;
     float: right;
     padding: .25em;
+}
+
+#Inuyasha:hover {
+    color: purple
 }
 
 #bathhouse {
