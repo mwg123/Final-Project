@@ -1,3 +1,7 @@
+body {
+    background-image: url(/images/background1.jpg);
+}
+
 #content {
     display: flex;
     flex-direction: row;
@@ -20,12 +24,17 @@
     height: 250px;
     }
 
+.review {
+    background-color: white;
+    margin: 5px;
+}
 .box {
     height: 400px;
     border: solid;
     display: flex;
     flex-direction: column;
     margin: 4px;
+    background-color: white;
 }
 
 #logo {
