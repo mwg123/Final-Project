@@ -162,3 +162,39 @@ body {
     height: 175px;
     float: left;
 }
+
+#dinner {
+    display: grid;
+    height: 175px;
+    float: right;
+}
+
+#dadAndOtis {
+    display: grid;
+    height: 200px;
+    float: left;
+}
+
+#murderInTheBasement {
+    display: grid;
+    height: 150px;
+    float: right;
+}
+
+#findingTheBody {
+    display: grid;
+    height: 200px;
+    float: left;
+}
+
+#helenWithMannequins {
+    display: grid;
+    height: 200px;
+    float: right;
+}
+
+#onTheBoat {
+    display: grid;
+    height: 175px;
+    float: left;
+}
