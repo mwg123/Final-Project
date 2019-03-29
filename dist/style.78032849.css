@@ -109,3 +109,56 @@ body {
     padding: 0.5em;
 }
 
+#violetAndCorky {
+    display: grid;
+    height: 250px;
+    float: left;
+    padding: 0.5em;
+}
+
+#violetAndTheMoney {
+    display: grid;
+    height: 300px;
+    float: right;
+    padding: 0.5em;
+}
+
+.quote {
+    float: center;
+}
+
+#happyTimes {
+    display: grid;
+    height: 150px;
+    float: left;
+}
+
+#frankieWithAGun {
+    display: grid;
+    height: 200px;
+    float: right;
+}
+
+#communion {
+    display: grid;
+    height: 150px;
+    float: left;
+}
+
+#bethAndJake {
+    display: grid;
+    height: 150px;
+    float: left;
+}
+
+#argument {
+    display: grid;
+    height: 175px;
+    float: right;
+}
+
+#bloodyBeth {
+    display: grid;
+    height: 175px;
+    float: left;
+}
